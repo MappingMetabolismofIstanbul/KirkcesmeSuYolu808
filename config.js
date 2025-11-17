@@ -100,7 +100,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/fVSy0P67/MEF-AAP-027-BAP-2025-07-17-11-39-56.png',
+            image: 'https://i.ibb.co/fVSy0P67/MEF-AAP-027-BAP-2025-07-17-11-39-56.png', 
             description: '',
             location: {
                 center: [28.964, 41.169],
@@ -116,10 +116,10 @@ var config = {
         },
         {
             id: 'fifth-chapter',
-            alignment: 'right',
+            alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/bRzVzdxB/MEF-AAP-027-BAP-2025-07-15-12-33-46.png',
+            image: 'https://i.ibb.co/8L4zyQDb/MEF-AAP-027-BAP-2025-11-17-15-57-53.png',  
             description: '',
             location: {
                 center: [28.933, 41.160],
@@ -176,7 +176,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/KJ0GY32/MEF-AAP-027-BAP-2025-07-15-12-28-28.png',
+            image: 'https://i.ibb.co/DgDj8947/MEF-AAP-027-BAP-2025-07-15-12-29-34.png',  
             description: '',
             location: {
                 center: [28.896, 41.143],
@@ -195,7 +195,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/DgDj8947/MEF-AAP-027-BAP-2025-07-15-12-29-34.png',
+            image: '',
             description: '',
             location: {
                 center: [28.900, 41.117],
@@ -210,25 +210,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'ten-chapter',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/nNN7R31s/MEF-AAP-027-BAP-2025-07-15-12-30-47.png',
-            description: '',
-            location: {
-                center: [28.914, 41.097],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
+          
             id: 'eleven-chapter',
             alignment: 'left',
             hidden: false,
@@ -283,26 +265,7 @@ var config = {
             rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'fourteen-chapter',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.952, 41.023],
-                zoom: 14,
-                pitch: 0,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+      
         },
          { 
             id: 'fifteen-chapter',
@@ -328,11 +291,11 @@ var config = {
             alignment: 'left',   
             hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/8nypTMWh/MEF-AAP-027-BAP-2025-11-17-16-10-59.png',
             description: '',
             location: {
                 center: [28.973, 41.014],
-                zoom: 14,
+                zoom: 17,
                 pitch: 0,
                 bearing: 0
             },
@@ -343,8 +306,27 @@ var config = {
             onChapterExit: []
         },
          { 
-            id: 'seventeen-chapter',
-            alignment: 'centered',   
+              id: 'twenty-chapter',
+            alignment: 'left',   
+            hidden: false,
+            title: '',
+            image: 'https://i.ibb.co/yBG8bZcR/MEF-AAP-027-BAP-2025-11-17-16-12-42.png',
+            description: '',
+            location: {
+                center: [28.973, 41.014],
+                zoom: 15,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+         { 
+            id: 'nineteen-chapter',
+            alignment: 'right',   
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/Z1MJT5Mb/MEF-AAP-027-BAP-2025-08-09-13-13-09.png',
