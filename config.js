@@ -307,7 +307,7 @@ var config = {
         },
          { 
               id: 'twenty-chapter',
-            alignment: 'left',   
+            alignment: 'right',   
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/yBG8bZcR/MEF-AAP-027-BAP-2025-11-17-16-12-42.png',
@@ -326,7 +326,7 @@ var config = {
         },
          { 
             id: 'nineteen-chapter',
-            alignment: 'right',   
+            alignment: 'centered',   
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/Z1MJT5Mb/MEF-AAP-027-BAP-2025-08-09-13-13-09.png',
